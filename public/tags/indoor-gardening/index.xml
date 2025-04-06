@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Indoor Gardening on Monoflora</title>
+    <link>http://localhost:1313/tags/indoor-gardening/</link>
+    <description>Recent content in Indoor Gardening on Monoflora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/indoor-gardening/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Easiest Houseplants That Won’t Die on You (Even If You Forget to Water Them)</title>
+      <link>http://localhost:1313/posts/easiest_houseplants_that_wont_die/</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/easiest_houseplants_that_wont_die/</guid>
+      <description>Looking for low-maintenance houseplants? Here are 7 forgiving green companions that will survive a little neglect and still look amazing.</description>
+    </item>
+  </channel>
+</rss>
