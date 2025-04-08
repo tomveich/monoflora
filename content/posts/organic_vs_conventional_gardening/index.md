@@ -3,7 +3,7 @@ title: "Organic vs. Conventional Gardening: Which Approach Is Right for Your Gar
 date: 2025-04-06
 description: "Explore the differences between organic and conventional gardening methods, and find out how you can use both to create a thriving, sustainable garden."
 tags: ["organic", "sustainability", "gardening"]
-weight: 10
+weight: 20
 draft: false
 author: ["Oliver"]
 cover:

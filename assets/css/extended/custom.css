@@ -44,3 +44,10 @@ body {
     animation: none !important; /* Disable theme's default animation */
 }
 
+figcaption {
+    text-align: center;
+}
+
+figure.entry-cover img {
+    margin-bottom: 0.5rem;
+}
