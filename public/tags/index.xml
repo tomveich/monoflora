@@ -9,31 +9,24 @@
     <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conventional Gardening</title>
-      <link>http://localhost:1313/tags/conventional-gardening/</link>
+      <title>Gardening</title>
+      <link>http://localhost:1313/tags/gardening/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/conventional-gardening/</guid>
+      <guid>http://localhost:1313/tags/gardening/</guid>
       <description></description>
     </item>
     <item>
-      <title>Gardening Tips</title>
-      <link>http://localhost:1313/tags/gardening-tips/</link>
+      <title>Organic</title>
+      <link>http://localhost:1313/tags/organic/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gardening-tips/</guid>
+      <guid>http://localhost:1313/tags/organic/</guid>
       <description></description>
     </item>
     <item>
-      <title>Organic Gardening</title>
-      <link>http://localhost:1313/tags/organic-gardening/</link>
+      <title>Sustainability</title>
+      <link>http://localhost:1313/tags/sustainability/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/organic-gardening/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sustainable Gardening</title>
-      <link>http://localhost:1313/tags/sustainable-gardening/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainable-gardening/</guid>
+      <guid>http://localhost:1313/tags/sustainability/</guid>
       <description></description>
     </item>
     <item>

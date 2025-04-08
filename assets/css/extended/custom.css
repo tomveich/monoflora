@@ -36,6 +36,10 @@ body {
 
 }
 
+.logo a img, .logo a svg {
+    transform: none;
+}
+
 .hover\:animate-spin:hover {
     animation: none !important; /* Disable theme's default animation */
 }
