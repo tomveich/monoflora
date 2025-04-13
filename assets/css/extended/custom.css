@@ -31,11 +31,6 @@
 }
 
 
-body {
-    font-family: "Noto Serif", serif;
-
-}
-
 .logo a img, .logo a svg {
     transform: none;
 }
@@ -50,4 +45,29 @@ figcaption {
 
 figure.entry-cover img {
     margin-bottom: 0.5rem;
+}
+
+/* MailerLite customization */
+
+.ml-form-embedWrapper {
+    max-width: none !important;
+    border: 0px solid var(--content) !important;
+    background-color: var(--tertiary) !important;
+    border-radius: 1rem !important;
+
+}
+
+.ml-form-successContent h4 {
+    color: var(--content) !important;
+
+}
+
+.ml-block-form {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 2rem;
+}
+
+button.primary {
+    border-radius: 1rem !important;
 }
